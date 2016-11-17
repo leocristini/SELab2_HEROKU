@@ -1,0 +1,24 @@
+{
+  "name": "selabheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocristini/SELab2_HEROKU.git"
+  },
+  "author": "Leonardo Cristini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocristini/SELab2_HEROKU/issues"
+  },
+  "homepage": "https://github.com/leocristini/SELab2_HEROKU#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "util": "^0.10.3"
+  }
+}
